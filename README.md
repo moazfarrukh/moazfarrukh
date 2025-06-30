@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Moaz Farrukh </h1>
-<h3 align="center">FullStack Engineer at Qlu.ai | MERN, TypeScript, JavaScript, Golang, Python | Blending Engaging User Experiences | Passionate about Innovation, Collaboration, and Building Impactful Solutions</h3>
+<h3 align="left">FullStack Engineer at Qlu.ai | MERN, TypeScript, JavaScript, Golang, Python | Blending Engaging User Experiences | Passionate about Innovation, Collaboration, and Building Impactful Solutions</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
